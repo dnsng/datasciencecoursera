@@ -1,6 +1,6 @@
 The tidy_data.txt dataset is based on original research in wearable devices and their dataset. The data was published in:
 
->Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
+>Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living \(IWAAL 2012\). Vitoria-Gasteiz, Spain. Dec 2012
  
 The original dataset and its CodeBook are available at:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#
@@ -9,7 +9,8 @@ For a description of the measurements and methodology, please refer to the origi
 The tidy data set contains 180 observations of 88 variables.
  
 The variables are:
-1. Activity (character string), identified with a text label: 
+
+1. Activity \(character string\), identified with a text label: 
 	* WALKING
 	* WALKING_UPSTAIRS
 	* WALKING_DOWNSTAIRS
